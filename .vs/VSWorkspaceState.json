@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\kss",
+    "\\src\\test\\java\\step_definitions"
+  ],
+  "SelectedNode": "\\src\\test\\java\\step_definitions\\PetsStepDef.java",
+  "PreviewInSolutionExplorer": false
+}
